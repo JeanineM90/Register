@@ -1,0 +1,15 @@
+C:\Users\jeanine.marteau\source\repos\StudyGroup\StudyGroup\bin\Debug\net6.0\StudyGroup.exe
+C:\Users\jeanine.marteau\source\repos\StudyGroup\StudyGroup\bin\Debug\net6.0\StudyGroup.deps.json
+C:\Users\jeanine.marteau\source\repos\StudyGroup\StudyGroup\bin\Debug\net6.0\StudyGroup.runtimeconfig.json
+C:\Users\jeanine.marteau\source\repos\StudyGroup\StudyGroup\bin\Debug\net6.0\StudyGroup.dll
+C:\Users\jeanine.marteau\source\repos\StudyGroup\StudyGroup\bin\Debug\net6.0\StudyGroup.pdb
+C:\Users\jeanine.marteau\source\repos\StudyGroup\StudyGroup\obj\Debug\net6.0\StudyGroup.csproj.AssemblyReference.cache
+C:\Users\jeanine.marteau\source\repos\StudyGroup\StudyGroup\obj\Debug\net6.0\StudyGroup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeanine.marteau\source\repos\StudyGroup\StudyGroup\obj\Debug\net6.0\StudyGroup.AssemblyInfoInputs.cache
+C:\Users\jeanine.marteau\source\repos\StudyGroup\StudyGroup\obj\Debug\net6.0\StudyGroup.AssemblyInfo.cs
+C:\Users\jeanine.marteau\source\repos\StudyGroup\StudyGroup\obj\Debug\net6.0\StudyGroup.csproj.CoreCompileInputs.cache
+C:\Users\jeanine.marteau\source\repos\StudyGroup\StudyGroup\obj\Debug\net6.0\StudyGroup.dll
+C:\Users\jeanine.marteau\source\repos\StudyGroup\StudyGroup\obj\Debug\net6.0\refint\StudyGroup.dll
+C:\Users\jeanine.marteau\source\repos\StudyGroup\StudyGroup\obj\Debug\net6.0\StudyGroup.pdb
+C:\Users\jeanine.marteau\source\repos\StudyGroup\StudyGroup\obj\Debug\net6.0\StudyGroup.genruntimeconfig.cache
+C:\Users\jeanine.marteau\source\repos\StudyGroup\StudyGroup\obj\Debug\net6.0\ref\StudyGroup.dll
