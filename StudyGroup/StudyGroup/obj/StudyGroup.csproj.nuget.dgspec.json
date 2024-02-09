@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jeanine.marteau\\source\\repos\\StudyGroup\\StudyGroup\\StudyGroup.csproj": {}
+    "C:\\Users\\jeanine.marteau\\source\\GIT\\Register\\StudyGroup\\StudyGroup\\StudyGroup.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jeanine.marteau\\source\\repos\\StudyGroup\\StudyGroup\\StudyGroup.csproj": {
+    "C:\\Users\\jeanine.marteau\\source\\GIT\\Register\\StudyGroup\\StudyGroup\\StudyGroup.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jeanine.marteau\\source\\repos\\StudyGroup\\StudyGroup\\StudyGroup.csproj",
+        "projectUniqueName": "C:\\Users\\jeanine.marteau\\source\\GIT\\Register\\StudyGroup\\StudyGroup\\StudyGroup.csproj",
         "projectName": "StudyGroup",
-        "projectPath": "C:\\Users\\jeanine.marteau\\source\\repos\\StudyGroup\\StudyGroup\\StudyGroup.csproj",
+        "projectPath": "C:\\Users\\jeanine.marteau\\source\\GIT\\Register\\StudyGroup\\StudyGroup\\StudyGroup.csproj",
         "packagesPath": "C:\\Users\\jeanine.marteau\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jeanine.marteau\\source\\repos\\StudyGroup\\StudyGroup\\obj\\",
+        "outputPath": "C:\\Users\\jeanine.marteau\\source\\GIT\\Register\\StudyGroup\\StudyGroup\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jeanine.marteau\\AppData\\Roaming\\NuGet\\NuGet.Config",
