@@ -191,3 +191,5 @@ static bool MainMenu() // define what mm does
 } // mm is being ran instde a loop. 
 // because variable that the While loop is looking at has been set to equal the value returned by the mm function, if the mm func returns true the while loop continues, keeps running mm func
 // however if mm returns false, while loop stops 
+
+// changes 
